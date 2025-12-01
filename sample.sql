@@ -16,3 +16,4 @@ INSERT INTO test_users VALUES (4, 'P Teja', 'pteja@example.com');
 
 --Deleting 1st row
 ---Adding 1st row
+---comments

@@ -1,4 +1,4 @@
-name: 4. Cleanup Temp Branches
+name: 7. Cleanup Temp Branches
 
 on:
   pull_request:
